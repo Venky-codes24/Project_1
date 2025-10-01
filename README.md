@@ -41,8 +41,6 @@ By the end of the project, students will:
 
 ## System Architecture  
 
-## System Architecture  
-
 <img src="system_architecture.png" alt="System Architecture" width="600">
 
 
