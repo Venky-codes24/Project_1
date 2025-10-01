@@ -41,7 +41,10 @@ By the end of the project, students will:
 
 ## System Architecture  
 
-![System Architecture](images/system_architecture.png)
+## System Architecture  
+
+<img src="system_architecture.png" alt="System Architecture" width="600">
+
 
 **High-level overview:**  
 - **Inputs:** user input module, seismic sensor API, historical earthquake data, geological/soil maps  
