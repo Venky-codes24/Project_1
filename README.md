@@ -21,23 +21,23 @@ This project aims to support **early disaster planning, emergency response, and 
 ## ⚡ Use Cases  
 
 ### 🏙 Urban Risk Assessment  
-- **Description:** Authorities can predict the level of impact an earthquake may cause in populated regions using historical and geophysical data.  
-- **Example:** Identify which regions are at higher risk during a *5.5 magnitude earthquake* based on location and soil type.  
+* **Description:** Authorities can predict the level of impact an earthquake may cause in populated regions based on historical data.  
+* **Example:** Predict which regions are at higher risk during a 5.5 magnitude earthquake using location and soil type.  
 
 ---
 
 ### 🏗 Infrastructure Planning  
-- **Description:** City planners can leverage the model to guide **construction policies** and design strategies in high-risk seismic zones.  
-- **Example:** Recommending stricter building codes in earthquake-prone areas.  
+* **Description:** City planners can use the model to guide construction policies in high-risk zones.  
+* **Example:** Predict risk level based on soil density and proximity to fault lines.  
 
 ---
 
-### 🚨 Emergency Response  
-- **Description:** Helps emergency management teams **prioritize relief operations** based on predicted damage intensity and affected risk zones.  
-- **Example:** Allocating more medical facilities, shelters, and rescue teams to severely impacted areas.  
+### 🚨 Government Disaster Response  
+* **Description:** Emergency teams can prioritize regions for response and rescue based on expected impact.  
+* **Example:** Rank areas for aid delivery after an earthquake hits, using model predictions.  
 
 ---
 
 ### 📢 Public Awareness & Education  
-- **Description:** The system can be used to **educate communities** about seismic risks and preparedness strategies.  
-- **Example:** Providing awareness campaigns with region-specific earthquake risk levels.  
+* **Description:** The system can be used to educate communities about seismic risks and preparedness strategies.  
+* **Example:** Provide awareness campaigns with region-specific earthquake risk levels.  
