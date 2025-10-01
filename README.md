@@ -41,7 +41,7 @@ By the end of the project, students will:
 
 ## System Architecture  
 
-*(Include the system architecture diagram in `images/system_architecture.png` or `images/system_architectureure.png` — inside your repo images folder.)*  
+![System Architecture](images/system_architecture.png)
 
 **High-level overview:**  
 - **Inputs:** user input module, seismic sensor API, historical earthquake data, geological/soil maps  
@@ -151,5 +151,3 @@ By the end of the project, students will:
 ### 🔹 Training Curves  
 - Plot training vs validation loss and accuracy  
 - Identify overfitting or underfitting  
-
----
