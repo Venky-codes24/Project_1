@@ -1,5 +1,5 @@
 🌍 ImpactSense — Earthquake Impact Prediction
-<<<<<<< HEAD
+
 
 📌 Project Statement
 
@@ -389,4 +389,3 @@ Evaluation report with graphs and metrics
 (Optional) Deployed interactive web UI
 
 Final project documentation and presentation slides
->>>>>>> 54560b8 (Updated changes)
